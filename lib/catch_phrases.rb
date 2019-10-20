@@ -1,8 +1,6 @@
-def mario
-  status = 'Thank You Mario! But Our Princess Is In Another Castle!'
-  puts phrase
+def link
+  local_variable = "It's Dangerous To Go Alone! Take This."
+  puts local_variable
 end
 
-def toadstool
-  puts status
-end
+local_variable
